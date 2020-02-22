@@ -6,4 +6,4 @@
 # so, basically, it's magic!
 #source /opt/rh/devtoolset-*/enable
 
-exec "$@"
+#exec "$@"
